@@ -1,0 +1,27 @@
+{
+    "lenguajes": [
+        {
+            "nombre": "python",
+            "version": "tres"
+        },
+        {
+            "nombre": "java",
+            "version": "doce"
+        },
+        {
+            "nombre": "javascript",
+            "version": "es6"
+        },
+        {
+            "nombre": "php",
+            "version": "siete"
+        }
+    ],
+    "ides": [
+        "visual",
+        "eclipse ide",
+        "netbeans ide",
+        "pycharm",
+        "phpstorm"
+    ]
+}

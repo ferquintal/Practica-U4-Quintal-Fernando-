@@ -1,0 +1,134 @@
+{
+    "alumnos": [
+        {
+            "nombre": "Fernando",
+            "apellido": "Quintal",
+            "semestre": "segundo"
+        },
+        {
+            "nombre": "Sofia",
+            "apellido": "Argaez",
+            "semestre": "segundo"
+        },
+        {
+            "nombre": "Fernanda",
+            "apellido": "Maciell",
+            "semestre": "cuarto"
+        },
+        {
+            "nombre": "Sergio",
+            "apellido": "Gomez",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Javier",
+            "apellido": "Aguilar",
+            "semestre": "segundo"
+        },
+        {
+            "nombre": "Daniel",
+            "apellido": "Pacheco",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Mario",
+            "apellido": "Medina",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Aaron",
+            "apellido": "Quintal",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Zazil",
+            "apellido": "Canul",
+            "semestre": "tercero"
+        },
+        {
+            "nombre": "Iveth",
+            "apellido": "Ojeda",
+            "semestre": "cuarto"
+        },
+        {
+            "nombre": "Julieta",
+            "apellido": "Pulido",
+            "semestre": "segundo"
+        },
+        {
+            "nombre": "Gilda",
+            "apellido": "Fernandez",
+            "semestre": "tercero"
+        },
+        {
+            "nombre": "Alejandra",
+            "apellido": "Blanquet",
+            "semestre": "segundo"
+        },
+        {
+            "nombre": "Kristel",
+            "apellido": "Tec",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Francisco",
+            "apellido": "Manrique",
+            "semestre": "cuarto"
+        },
+        {
+            "nombre": "Adrian",
+            "apellido": "Xool",
+            "semestre": "tercero"
+        },
+        {
+            "nombre": "Ismael",
+            "apellido": "Dominguez",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Roberto",
+            "apellido": "Quintal",
+            "Canto": "quinto"
+        },
+        {
+            "nombre": "Jessica",
+            "apellido": "Canto",
+            "semestre": "tercero"
+        },
+        {
+            "nombre": "Jorge",
+            "apellido": "Angulo",
+            "semestre": "quinto"
+        },
+        {
+            "nombre": "Andres",
+            "apellido": "Aguilar",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Constanza",
+            "apellido": "Mendoza",
+            "semestre": "primero"
+        },
+        {
+            "nombre": "Lissette",
+            "apellido": "Ojeda",
+            "semestre": "quinto"
+        },
+        {
+            "nombre": "Rodrigo",
+            "apellido": "Benavidez",
+            "semestre": "quinto"
+        },
+        {
+            "nombre": "Valentina",
+            "apellido": "Sauri",
+            "semestre": "cuarto"
+        }
+    ],
+    "ides": [
+        "nombre",
+        "apellido",
+        "semestre"
+    ]
+}
